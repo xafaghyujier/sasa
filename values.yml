@@ -1,9 +1,11 @@
-Pipeline:
-  name: foo
-
-DockerBuild:
-  name: foobuild
-
-DockerPush:
-  name: foopush
-
+pipelines:
+  - name: my_first_pipeline
+    steps:
+      - name: p1_s1
+        type: Bash
+        configuration:
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - lscpu
