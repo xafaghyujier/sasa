@@ -3,9 +3,9 @@ resources:
   type: GitRepo
   configuration:
     # SCM integration where the repository is located
-    gitProvider: https://github.com/xafaghyujier
+    gitProvider: https://github.com/xafaghyujier/sasa
     # Repository path, including org name/repo name
-    path: sasa
+    path: /
     branches:
       # Specifies which branches will trigger dependent steps
       include: main
