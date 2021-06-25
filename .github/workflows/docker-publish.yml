@@ -1,20 +1,14 @@
-name: Docker
-
-# This workflow uses actions that are not certified by GitHub.
-# They are provided by a third-party and are governed by
-# separate terms of service, privacy policy, and support
-# documentation.
-
-on: [push]
-
-
+name : sama
+on : [push]
 jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
+  test:
+    runs-on: macos-latest
     steps:
-      - name: Checkout repository
+      - name: checkout
         uses: actions/checkout@v2
-      - name: Android Emulator
-        uses: vgaidarji/android-github-actions-emulator@v1.0.1
+
+      - name: run tests
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 29
+          script: ./gradlew connectedCheck
