@@ -1,7 +1,14 @@
 resources:
 - name: myFirstRepo
   type: GitRepo
-
+  configuration:
+    # SCM integration where the repository is located
+    gitProvider: Github.com
+    # Repository path, including org name/repo name
+    path: xafaghyujier/sasa
+    branches:
+      # Specifies which branches will trigger dependent steps
+      include: main
       
 - name: myPropertyBag
   type: PropertyBag
