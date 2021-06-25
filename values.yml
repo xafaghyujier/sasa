@@ -3,7 +3,7 @@ resources:
   type: GitRepo
   configuration:
     # SCM integration where the repository is located
-    gitProvider: Github.com
+    gitProvider: sasa
     # Repository path, including org name/repo name
     path: xafaghyujier/sasa
     branches:
